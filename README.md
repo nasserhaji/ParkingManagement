@@ -53,7 +53,7 @@ Since this smart contract is based on blockchain, security and transparency are 
 * استفاده از تابع‌هایی که تنظیم قیمت پارکینگ و پرداخت هزینه را انجام می‌دهند.
 * ارائه تابع‌هایی برای بررسی صحت اطلاعات و انجام تغییرات در صورت نیاز.
 
-# parking management A
+# Parking management A
 ```solidity
 pragma solidity ^0.8.0;
 
@@ -115,7 +115,7 @@ contract ParkingManagement {
 
 ```
 
-# parking management B
+# Parking management B
 ```solidity
 pragma solidity ^0.8.0;
 
